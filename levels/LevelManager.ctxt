@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=LevelManager
+comment1.params=game
+comment1.target=LevelManager(main.Game)
+comment2.params=
+comment2.target=void\ importOutsideSprite()
+comment3.params=g
+comment3.target=void\ draw(java.awt.Graphics)
+comment4.params=
+comment4.target=void\ update()
+numComments=5
